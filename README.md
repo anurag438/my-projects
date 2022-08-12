@@ -1,2 +1,2 @@
 # my-projects
-check my projects using HTML, CSS &amp; JavaScript
+Here is the collection of projects I made using using HTML, CSS, JavaScript.
