@@ -1,0 +1,76 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background: whitesmoke;
+}
+.container{
+    width: 400px;
+    border: 5px solid rgb(22, 22, 20);
+    border-radius: 20px;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px ;
+    border-bottom: 0.5px solid rgb(224, 219, 219);
+    margin-bottom: 25px;
+
+}
+.logo{
+    width: 100px;
+}
+.user-avatar{
+    width: 40px;
+    border-radius: 50%;
+}
+.section-one{
+    display: flex;
+    padding: 5px;
+}
+.section-one img{
+    width: 45px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.section-one h4,
+.section-one p{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 2px 4px;
+}
+.section-one p{
+    font-size: 14px;
+}
+.post-vangogh{
+    width: 100%;
+}
+.under-picture{
+    display: flex;
+    padding: 3px 8px;  
+}
+.under-picture img{
+    width: 25px;
+    margin-left: 0px;
+    margin-right: 5px;
+}
+.under-picture img:hover{
+    width: 30px;
+}
+footer{
+    padding: 8px 10px;
+    margin-bottom: 5px;
+}
+footer h4,
+footer p{
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+footer p{
+    margin-top: 5px;
+}
