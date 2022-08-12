@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background: #008080;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.number-counter{
+    width:120px;
+    background: #0a0001;
+    color: #F94F6D;
+    font-size:90px;
+    margin: 20px;
+}
+button{
+    background: none;
+    color: white;
+    border:1px solid white;
+}
