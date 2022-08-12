@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    background-color: #1e2937;
+    padding:40px;
+    color: whitesmoke;
+}
+.container{
+    width: 500px;
+    margin: 50px auto;
+}
+.header{
+    margin-left: 30px;
+    margin-bottom: 0px;
+}
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h3{
+    margin-top: 7px;
+}
+span{
+    color:#49e086;
+}
+button{
+    background:  #0EB982;
+    color: whitesmoke;
+    margin-top: 20px;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+}
+.footer{
+    margin-top: 30px;
+    border-top: 3px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}    
+.password{
+    margin-top: 30px;
+    background: #22344c;
+    color: 0EB982;
+    text-align: center;
+    line-height: 30px;
+    height: 40px;
+    width: 175px;  
+    border-radius: 10px;
+}
+h6{
+    padding-top:10px;
+    font-size: 17px
+}
+
